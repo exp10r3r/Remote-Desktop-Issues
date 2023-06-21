@@ -1,6 +1,6 @@
 @echo off
 color 0A
-title 3389连接痕迹清除     by githup/dashuaib
+title 3389连接痕迹清除     by githup/exp10r3r
 mode con cols=88 lines=20
 echo =======================================================================================
 echo win10和win8 远程连接请去掉打印机勾选项，这是bug，暂时没办法解决。
